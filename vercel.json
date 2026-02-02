@@ -1,5 +1,6 @@
 {
-  "buildCommand": "yarn build",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
   "outputDirectory": ".next",
   "framework": "nextjs",
   "rewrites": [
