@@ -7,20 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'TikTok Shop Affiliate Guide',
+    description: `Everything you need to know about becoming a successful TikTok Shop affiliate. From getting started to scaling your income.`,
+    imgSrc: '/static/images/tiktok-guide.jpg',
+    href: '/blog',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Join the Community',
+    description: `Connect with other affiliates in our Clubhouse room. Real talk, live Q&As, and support from people who get it.`,
+    imgSrc: '/static/images/community.jpg',
+    href: 'https://clubhouse.com',
   },
 ]
 
